@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: CroissantOne-Regular
+font link: https://fonts.google.com/specimen/Croissant+One
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: priyanka
+icon designer link: /creativepriyanka
+        
+
+fontColor: {"gradient-0":"#BD20D0","gradient-1":"#391D98"}
+bgColor: {"hex":"#000000"}
+iconColor: {"gradient-0":"#BD20D0","gradient-1":"#391D98"}
+
+      
